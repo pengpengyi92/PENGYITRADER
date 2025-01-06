@@ -199,6 +199,9 @@
         <mxCell id="1Zfur0nQzSB4-iuhikmC-46" value="LIVE DATA TRADING" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="530" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1Zfur0nQzSB4-iuhikmC-47" value="FRAMEWORK OF PENGYITRADER" style="shape=or;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="170" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
